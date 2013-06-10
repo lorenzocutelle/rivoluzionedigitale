@@ -38,13 +38,19 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 - @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
 
-- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
-alla condivisione delle modifiche sul codice dei software
 - @Ale_Cannone: General public license: 4 libertà del software libero
 più il copyleft
 
 - @93Levante: Il quarto principio, su cui si basa il software libero,
-diventa un OBBLIGO per il bene della comunità
+diventa un OBBLIGO x il bene della comunità
+
+- @DavidePalermo2: Allarme patent troll, finti inventori: brevettano
+l'hi-tech e fanno causa http://t.co/109jk41Z24 via @repubblicait
+
+- @paolopopolizio: @russomatteo93 allora mi osservi invece di seguire :P
+
+- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
+alla condivisione delle modifiche sul codice dei software
 
 - @Ale_Cannone: Copyleft --> obbligo di rendere disponibile il codice
 sorgente modificato se diffondo il sorgente modificato
@@ -69,6 +75,8 @@ stranezze di Stallman e rendere più moderato "Software libero"
 
 - @MartinoMensio: Free BSD non impone il copyleft
 
+- @FabioVallone: open source non è un sinonimo di software libero...
+
 - @MartinoMensio: Licenze BSD http://t.co/d2Mhb2BdfW
 
 - @LolloCler: differenza open source-software libero puramente di
@@ -86,6 +94,12 @@ rispettivamente accesso libero al codice e rispetto delle 4 libertà
 - @Rexsimo893: Open source -> operazione di marketing che rimodula
 il significato di software libero, che invece ha una def. più precisa
 
+- @LolloCler: opensource consente codice accessibile e magari non le
+altre 4 libertà al contrario del software libero
+
+- @MartinoMensio: Open source: più vago del software libero; garantisce
+solamente la visione del codice sorgente
+
 - @PieMarzio: "Commons": gruppo di individui che rispettano in generale
 delle norme (gourodiche, sociali)
 
@@ -97,6 +111,9 @@ http://t.co/oh5J4TT2nF ;-)
 
 - @LolloCler: su wikipedia gruppo volontario di individui collabora
 rispettando norme sociali imposte dai wikipediani
+
+- @SoFranchy: Open Source < SW libero. SW libero include le 4 libertà;
+Open Source include almeno la possibilità di vedere il codice
 
 - @Ale_Cannone:  nè privato (mercato) nè lo stato --> anarchia,
 dove ognuno si può autorganizzare --> Commons
@@ -126,6 +143,9 @@ casi di commons fisici ed il loro funzionamento
 
 - @ripa_pepperipa: Elinor Ostrom --> http://t.co/VavtbZItvG
 
+- @LolloCler: Ostrom,nobel per economia,studia common fisici e come le
+comunità si gestiscono e conclude che é falso che falliscono
+
 - @Carrattrezzi: I commons non sono solo quelli degli anni '70, ci sono
 casi molto più antichi e che hanno invece funzionato.
 
@@ -136,6 +156,17 @@ tragedy of the commons"
 necessariamente destinati a fallire, possono funzionare efficientemente
 
 - @MartinoMensio: La tragedia dei commons: http://t.co/Neku7yjK7L
+
+- @ripa_pepperipa: La visione dei Commons che falliscono è catturata
+dalla frase: “The tragedy of the Commons” .. cit Hardin
+
+- @SoFranchy: Si deve a E. Ostrom (Nobel Economia 2009) gran parte dello
+studio sui commons fisici: contrapposizione "tradedia dei c."
+
+- @DavidePalermo2: "The Tragedy of the Commons" ScienceMagazine
+http://t.co/05pY8i3zgT
+
+- @Carrattrezzi: pirateria not at
 
 - @Ale_Cannone: Elinor Ostrom ha dimostrato che in alcuni casi il commons
 è più efficiente di altre strade
@@ -152,14 +183,25 @@ permette di sostenere lo scrittore. La distribuzione gratuita no.
 - @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
 poter organizzare tutto in digitale (questioni di interesse economico)
 
+- @Carrattrezzi: Circa il 6% del prezzo di copertina di un libro va
+all'autore
+
 - @SabryKarate: Del guadagno ricavato dalle copie fisiche vendute,
-allo scrittore vanno tra il 6% fino ad un massimo del 12%
+allo scrittore vanno tra il 6% ed un massimo di 12%... libri
 
 - @SoFranchy: Rendere disponibile la conoscenza a tutti allo stesso
 modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
 
+- @venadavide: Un autore medio riceve circa il 6/7 % dal ricavato di
+una pubblicazione
+
+
 - @ripa_pepperipa: Philippe Aigrain e Volker Grassmuck hanno provato a
 disaccoppiare la visione del tantigibile e intangibile
+
+- @AstoriPietro: Solo il 6% del costo del libro è destinato all'autore,
+se è bravo contratta fino al 10-12%
+
 
 ### La Pirateria
 
@@ -189,6 +231,9 @@ all'utente
 - @DavidePalermo2: Il computer è una "fabbrica" che permette a tutti
 di diventare un Pirata
 
+- @ripa_pepperipa: La pirateria non è furto, ma si danneggia il
+produttore.
+
 - @AstoriPietro: Pc, permette a tutti di essere "pirata"
 
 - @SabryKarate: Secondo alcuni: La copia digitale personale non
@@ -210,23 +255,55 @@ alla netiquette
 
 - @FabioVallone: Oggi espanderemo il concetto di Netiquette
 
+- @EmaParrinello: un corso completo che ci sta fornendo informazioni,
+strumenti, esperienza e netiquette
+
 - @EmaParrinello: Internet facilita la possibilità di riportare
 riferimenti attendibili, cose che era molto più difficile prima di
 internet
 
-- @SoFranchy: Oggi si parla di Netiquette --> diventare migliori
-cittadini (digitali): "Cosa dici?", "integrità", "logical fallacies"
+- @Clerish: L'obiettivo finale del corso è quello di farci diventare
+migliori "cittadini digitali"
+
+- @ripa_pepperipa: oggi si parla di 1. "Cosa dici?" 2. Integrità
+3. Logical fallacies
+
+- @DavidePalermo2: 1) "Cosa dici?" 2) integrità 3) Logical Fallacies
 
 - @_FedericoConte: "Cosa dici?" : quando ci si rivolge online è
 importante chiarire la natura di ciò che si scrive
 
+- @SoFranchy: Oggi si parla di Netiquette --> diventare migliori
+cittadini (digitali): "Cosa dici?", "integrità", "logical fallacies"
+
+- @ripa_pepperipa: E’ fondamentale chiarire se ciò che si dice è:
+1. Un’opinione; 2. Una testimonianza
+
 - @Carrattrezzi: La testimonianza non è la verità, è una percezione,
-c'è quindi una differenza
+a lot different
 
 - @Clerish: Bisogna sempre chiarire se quello che si dice è:
 1)Un'opinione 2)Una testimonianza 3)Un fatto
 
+- @FabioVallone: Online, chiarire se è: 1-Un'opinione 2-Una testimonianza
+3-Riferite una informazione o un fatto
+
+- @Ale_Cannone:  nel relazionarsi con le persone bisogna far capire se
+ciò che si dice sia una nostra opinione, testimonianza o un fatto
+
+- @FeFallace: Nozione di netiquette: chiarire se il contenuto pubblicato
+é un'opinione, una testimonianza o un'informazione, un fatto...
+
+- @SabryKarate: Ciò che ognuno riporta di un certo evento è
+soggettivo. A parte la matematica, tutto il resto è opinabile...
+
+- @SimoneBleynat: Opinione, testimonianza o fatto riportato? È importante
+specificare la fonte di ciò che si dice
+
 - @DavidePalermo2: Parliamo delle informazioni su wikipedia
+
+- @paolopopolizio: chiarire se si dice: -1 opinione -1 testimonianza
+-1 informazione
 
 - @SoFranchy: "Cosa dici?": specifica se è una tua opinione, una
 testimonianza, un riferimento o una citazione: dimostrane la veridicità.
@@ -236,8 +313,14 @@ testimonianza, un riferimento o una citazione: dimostrane la veridicità.
 - @Clerish: Crap detection: capire l'attendibilità di un'informazione
 online
 
+- @_FedericoConte: Bisogna capire l'attendibilità delle informazioni
+online
+
+- @Rexsimo893: Chiarire sempre se ciò che diciamo è: -opinione
+-testimonianza -riferimento a un fatto
+
 - @SabryKarate: Per aver maggiore sicurezza riguardo ad un fatto, è
-bene osservare le info di una fonte attendibile.
+bene osservare le info di una fonte attendibile. @rd_informazione
 
 - @LorenzoCutelle: Su wikipedia (e non solo) è fondamentale citare
 fonti affidabili.
@@ -250,6 +333,8 @@ quali prendiamo le informazioni
 
 - @SimoneBleynat: NB: verificare SEMPRE l'affidabilità delle fonti di
 qualsiasi informazione
+
+- @Ale_Cannone:  le fonti attendibili vanno riconosciute dal contesto
 
 - @FabioVallone: Su internet bisogna cercare di essere chiari il più
 possibile per cercare di aumentare la nostra credibilità
@@ -277,14 +362,24 @@ articoli scientifici accessibili in modo gratuiito
 - @LorenzoCutelle: La definizione di "integrità" di Michael C. Jensen
 è: mantenere la parola data.
 
+- @_FedericoConte: Integrità : mantenere la parola data
 
+- @FeFallace: Integrità significa mantenere la parola data.
 
-
-- @Carrattrezzi:L'integrità presuppone
+- @Carrattrezzi: L'integrità è mantere la parola data. Presuppone
 riflessione prima di parlare, e produce fiducia
 
+- @paolopopolizio: "integrità": sta per affidabilità, mantenere la
+parola data
+
+- @DavidePalermo2: Aspettiamo con impazienza la lezione di settimana
+prossima di @annamasera, SM Editor de @la_stampa, a @RivoluzDigitale
+
+- @EricaAcire19: mantenere la parola data è molto più difficile del
+previsto...cit. @demartin
+
 - @FabioVallone: Integrità: C'è una richiesta a monte di qualcuno,
-e una nostra considerazione del lavoro da svolgere.
+e una nostra considerazione del lavoro da svolgere. Si può accettare o no
 
 - @Carrattrezzi: Per prendere un impegno dobbiamo sapere il tempo che
 impieghiamo per farlo e il tempo che abbiamo
@@ -319,13 +414,37 @@ anche prudenza in modo da rispettare la parola data
 - @FabioVallone: Integrità può anche voler dire una grande conoscenza
 di noi stessi.Solo con esperienza si impara a capire cosa si può fare
 
-- @fabioricca93: integrità significa mantenere la parola data ,quindi comporta un'attenta
+- @bassosimone: Tanto le moltiplicazioni (e le divisioni) per due sono
+molto efficienti
+
+- @fabioricca93: integrità=mantenere la parola data comporta un'attenta
 analisi di se stessi basata su prudenza e coscienza di se
+
+- @BoggioMattia: Per mantenere la parola data bisogna avere un'ottima
+conoscenza dei propri limiti e delle proprie capacità!!
+
+- @StefanoFranz20:  lasciarsi sempre un margine di tempo onde evitare
+di non mantenere la parola data. consiglio
+
+- @Carrattrezzi: Se forza maggiore bisogna dire ciò che succede nel
+momento in cui succede. E deve essere reale ed eccezionale
+
+- @SabryKarate: Ecco perché in genere io parto molto presto al mattino:
+per non arrivare in ritardo a lezione in caso di imprevisti.
+
+- @SimoneBleynat: Se qualcuno ti frega il computer sei giustificato a
+non farmi quelle slides che mi avevi promesso. Sennò no.
 
 - @SoFranchy: Se c'è imprevisto: avvisare immediatamente, proporre
 nuovi termini, chiedere se si può attenuare il disagio in qualche modo
 
 - @Carrattrezzi: Integrità accresce la reputazione
+
+- @LorenzoCutelle: La lezione di oggi di  ci fa capire benissimo come
+le regole su Internet siano le stesse della vita reale.
+
+- @ripa_pepperipa: • La reputazione ha un grandissimo valore
+professionale!
 
 - @BoggioMattia: Reputazione ha un grandissimo valore professionale
 oltre che personale.
@@ -336,15 +455,54 @@ reputazione dell'individuo in maniera positiva
 - @Ale_Cannone:  nel caso di un imprevisto bisogna avvertire colui che
 ci aveva chiesto qualcosa e cercare di attenuare il disagio causato
 
+- @FabioVallone: La parola può non essere rispettata solo in casi
+"estremi". Quando succede bisogna cercare di alleviare i danni creati
+
 - @SabryKarate: La reputazione ha una grande importanza a livello sociale
 e lavorativo. Ci si può affidare a chi ha una buona reputazione.
+
+- @LorenzoCutelle: L'integrità è un valore di immane importanza sia
+su internet che nella vita reale. Un valore sempre più necessario.
+
+- @Ale_Cannone:  integrità vuol dire persona professionale che gode di
+rispetto da parte degli altri grazie alla sua positiva reputazione
+
+- @SoFranchy: Essere integri migliora la reputazione che ha un grande
+impatto professionale e commerciale
+
+- @FabioVallone: Mantenere la parola data aumenta molto la reputazione
+anche a livello professionale
+
+- @SabryKarate: Dopo la valutazione di una richiesta: No, grazie. (niente)
+Sì, però... (negoziazione) Sì. (parola data, va rispettata)
+
+- @DavidePalermo2: Schemino Riassuntivo http://t.co/t4s63xiUGo
+
+- @Carrattrezzi: @demartin ci porta un po' di mentalità anglosassone
 
 - @SabryKarate: In caso di un'emergenza: -Informare
 tempestivamente. -Scusarsi. -Stabilire nuova data. -Cosa si può fare
 per rimediare?
 
+- @paolopopolizio: ad una richiesta corrisponde una valutazione che in
+caso positivo implica la "parola data"
+
+- @Antonio_Langiu: Se emergenza vera: 1)Informare direttamente 2)Chiedere
+scusa 3)Dire quando si potrà fare 4)Chiedere come attenuare disagio
+
+- @omerovitali: Schema alla lavagna. http://t.co/YeCHaYQDW5
+
 - @StefanoFranz20: In sostanza non cercare di nascondere il problema ma
 prenderne atto e cercare una soluzione
+
+- @Carrattrezzi: Integrità è anche scrupolo nel parlare ed attenzione
+al fatto che sia vero.
+
+- @SabryKarate: Perciò, prima di affermare un fatto bisogna accertarsi
+che questo sia verificato. Non riferite solo "per sentito dire".
+
+- @FabioVallone: è importante crearsi una buona reputazione e
+attendibilità, quindi una buona Integrità
 
 - @Ale_Cannone:  integrità ---> persona attendibile, efficiente
 e coerente
@@ -355,35 +513,90 @@ its norms" by D. Gambetta e G.Origgi << [pdf] http://t.co/11nFGzbKgJ
 - @SabryKarate: Perché in Italia predomina l'idea: ti offro poco,
 fai in fretta, non mi interessa il risultato ma basta che sia fatto?
 
+- @DavidePalermo2: Def. di bozzaccia http://t.co/6C5QaFqeTI
+
 - @Clerish: In Italia sono comuni le richieste impossibili entro tempi
 brevi, che portano a "bozzacce"
+
+- @FabioVallone: in alcune relazioni esiste anche la "bozzaccia" ovvero
+tempi stretti, ma il lavoro è di scarsissima qualità...
+
+- @EmaParrinello: integrità significa anche rendersi conto che in alcuni
+casi non si è in grado di poter soddisfare la richiesta
 
 - @FabioVallone: Le aziende dove domina l'integrità, sono 2 volte più
 efficienti delle altre
 
+- @SabryKarate: E' meglio prendersi tempi più lunghi, ma eseguire un
+lavoro in maniera più accurata piuttosto che fare tutto "alla carlona"
+
+- @FeFallace: L'integritá funziona! Le aziende che la impongono producono
+più del doppio.
+
+- @Carrattrezzi: Valutare le richieste con la testa e non con il cuore
+
+- @Clerish: Le aziende in cui predomina l'integrità sono in media più
+del doppio di efficienti rispetto alle altre
+
 - @FabioVallone: Nella valutazione della richiesta, l'autoinganno è un
 rischio pericoloso
+
+- @ripa_pepperipa: • L’auto-inganno è un rischio particolarmente
+forte nella valutazione della richiesta
+
+- @SabryKarate: "Thou shall not commit logical fallacies"
+
+- @Ale_Cannone:  uno sguardo sull'Italia
+
+- @SabryKarate: What is a Logical fallacy? Take a look on this wiki page:
+http://t.co/Sh7Alpl6PD
 
 - @DavidePalermo2: Thou shalt not commit logical fallacies
 http://t.co/6C5QaFqeTI
 
-- @Carrattrezzi: 1) Ad hominem attack 2) Spaventapasseri 3) Anedottica 4)
-China pericolosa 5) Bianco e nero (There Is No Alternative)
-- @Carrattrezzi: 6) False cause
+- @DavidePalermo2: https://t.co/fOpWGnzF6B Immagine delle Logical
+Fallacies
 
 - @Clerish: La peggiore fallacia logica è "ad hominem attack": attaccare
 l'opponente invece della sua tesi
 
-- @SabryKarate:Strawman (Spaventapasseri) - deformo l'argomentazione dell'opponente
+- @SabryKarate: 1) Ad hominem attack - attacco ad personam 2) Strawman
+(Spaventapasseri) - deformo l'argomentazione dell'opponente
 
- @Ale_Cannone:  spaventapasseri: presentare la tesi di qualcuno
-deformandola consciamente (attacco vigliacco)
+- @Clerish: La fallacia logica dello "strawman attack" (spaventapasseri)
+può passare inosservata da chi ascolta senza attenzione
+
+- @Ale_Cannone:  logical fallacies: 1. Ad hominem attack
+2. Spaventapasseri (strawman) 3. Anedottica
+
+- @SoFranchy: Logical fallacies, parallelismo inevitabile e frequente
+con la politica italiana e sui "salotti di tribuna politica"
+
+- @bassosimone: - la persona professionale chiede se ha capito bene
+l'argomentazione per esser sicuro appunto di aver capito
+
+- @fabioricca93: È evidente che cicerone nel foro romano non usava le
+logical fallacies (ad hominem attack/spaventapasseri)
+
+- @SabryKarate: Interesting list of logical fallacies:
+http://t.co/in6ZHb2jF8
 
 - @Clerish: La fallacia logica "anedottica" si basa sul generalizzare
 un singolo fatto come se valesse per tutti
 
+- @paolopopolizio: D'AGOSTINI FRANCA https://t.co/46MDWtpKMS
+
 - @Rexsimo893: Anedottica: prendere singolo fatto e generalizzarlo anche
 se non rappresenta la verità
+
+- @Ale_Cannone:  ad hominem attack: quando non si riesce ad attaccare
+un a4gomento altrui si attacca la persona
+
+- @Antonio_Langiu: Fallacce Logiche: 1) ad hominem attack 2) i
+spaventapasseri 3) anedottica
+
+- @Ale_Cannone:  spaventapasseri: presentare la tesi di qualcuno
+deformandola consciamente (attacco vigliacco)
 
 - @Clerish: Altra fallacia logica è quella della "slippery slope"
 (china pericolosa), che esagera i rischi della tesi da attaccare
@@ -391,7 +604,37 @@ se non rappresenta la verità
 - @bassosimone: il problema dello slipper slope sta appunto nell'
 "inevitabilmente"
 
+- @LucaLiuzzi: Adesso che conosco bene le logicalfallacies non potrò
+non notarle ogni giorno,ogni min anche sui giornali.damnit
+
+- @EmaParrinello: logical fallacy anedottica consiste nel fare delle
+deduzioni partendo da casi particolari da cui non si può generalizzare
+
+- @paolopopolizio: "china pericolosa": un conseguenza autoevidente,
+senza che sia necessariamente vero
+
+- @SabryKarate: 3)Anedottica - da fatto particolare -> "regola
+generale" 4)Slippery slope (China pericolosa) - conseguenze non dimostrate
+
+- @Ale_Cannone:  anedottica: prendere un singolo dato, anche vero,
+e generalizzarlo come fatto generale
+
 - @_FedericoConte: Slipper Slope è un "effetto a valanga"
+
+- @Ale_Cannone:  china pericolosa (slippery slope) una serie di
+conseguenze successive non dimostrate
+
+- @bassosimone: lo slippery slope e' spesso legato ad argomenti morali
+
+- @SabryKarate: E' molto facile manipolare le informazioni tramite
+appropriati giri di parole o argomentazioni false http://t.co/jgTnXHVTPN
+
+- @DavidePalermo2: Proibizionismo http://t.co/WZ75X4uSKb
+
+- @StefanoFranz20:  logicalfallacies http://t.co/9RfHLlMr7d
+
+- @SoFranchy: Logical fallacies ad hominem attack: attaccare persona,
+non argomento; strawman: deformare opinione altrui per attaccarla
 
 - @FabioVallone: In molti casi si cerca di semplificare al massimo le
 opzioni: una negativa e una positiva
@@ -402,14 +645,54 @@ solo 2 opzioni, una negativa ed una positiva -> la scelta e' indotta
 - @Clerish: Infine, la fallacia logica "Bianco o Nero" esclude l'esistenza
 di sfumature tra la propria tesi e quella rivale
 
+- @Carrattrezzi: 1) Ad hominem attack 2) Spaventapasseri 3) Anedottica 4)
+China pericolosa 5) Bianco e nero (There Is No Alternative)
+
+- @FabioVallone, @AntonioLangiu: TINA -> There Is No Alternative
+
+- @Clerish: TINA: There Is No Alternative
+
+- @SabryKarate: "T.I.N.A." There is no alternative
+
+- @ripa_pepperipa: - La fallacia logica Bianco o Nero: Nello strutturare
+la discussione dicendo o è così o così --> solo 2 opzioni.
+
+- @SoFranchy: Logical fallacies Aneddotica: basarsi su singolo evento
+e generalizzare;
+
 - @paolopopolizio: "TINA" : There Is No Alternative, atto di prepotenza
 e arroganza
+
+- @DavidePalermo2: TINA http://t.co/8FrfARvuum
+
+- @FabioVallone: Di solito chi utilizza il metodo TINA commette un atto
+di prepotenza
+
+- @fabioricca93: LOG.FALL. Bianco o nero=in una discussione dico
+VOLONTARIAMENTE che una cosa o è in un modo o in un'altro\ No altre
+opzioni
+
+- @Clerish: Chi usa l'argomento TINA commette di solito un atto di
+prepotenza
 
 - @Ale_Cannone:  bianco o nero: le opzioni sono solamente due di cui
 una è sicuramente negativa per far apparire l'altra migliore
 
+- @SoFranchy: Logical fallacies slippery slope: addurre "inevitabili"
+(non dimostrate) conseguenze negative a tesi altrui
+
+- @venadavide: "TINA: There Is No Alternative"
+
+- @Carrattrezzi: 6) False cause
+
 - @Clerish: La fallacia logica "False cause" implica una causalità
 infondata (x è la causa di y)
+
+- @SoFranchy: Logical fallacies: Bianco e nero: far intendere che ci
+sono solo due opinioni e distruggere quella altrui (TINA)
+
+- @EmaParrinello: attenzione a non confondere la "causazione" con la
+"correlazione"
 
 - @bassosimone: - correlation does not imply causation |
 http://t.co/UGu9l1uZqb
@@ -417,25 +700,72 @@ http://t.co/UGu9l1uZqb
 - @Ale_Cannone:  false cause: due fenomeni di cui uno è la causa
 dell'altro ma ciò è infondato
 
+- @LucaLiuzzi: Penso che le logicalfallacies sono la causa di molti
+pregiudizi.
+
+- @SabryKarate: 6) False cause - causalità infondata di un fatto
+cit. @demartin: "x è la causa di y"
+
+- @FabioVallone: Faulse Cause "X è la causa di Y" ma
+infondato. Correlazione != Causazione
+
+- @fabioricca93: correlazione != causazione
+
 - @SoFranchy: Logical fallacies False cause: presentare (senza prove)
 la casualità di un fenomeno. Correlazione è diverso da causazione.
+
+- @Carrattrezzi: http://t.co/OsfHAzLsHl e anche http://t.co/KRCIQHmB4c
+
+- @Clerish: Se c'è una correlazione tra risultati scolastici e libri
+in casa, bisogna pensare che un fatto non è la causa dell'altro
+
+- @SabryKarate: Non si può ottenere tutta la conoscenza solo comprando
+una carrellata di libri. Possesso di libri non implica conoscenza.
 
 
 ## @bassosimone
 
 ### Approfondimenti: bitly, Crap detection e Tor
 
+- @EricaAcire19: pronti per una nuova lezione di @bassosimone ...
+
+- @DavidePalermo2: @bassosimone introduce il lavoro "volontario" fatto
+sul l'indice di github File Index.md http://t.co/kBOdqCRlRa
+
+- @Carrattrezzi:  http://t.co/0AaaLj4eeN
+
 - @DavidePalermo2: Crap detector - Il sensore di boiate:
-http://t.co/rbchnp1GPl
+http://t.co/rbchnp1GPl di @lucadebiase Per anticipare la lezione di
+@bassosimone
+
+- @SabryKarate: Dopo la pausa, @bassosimone parlerà di Crap detection
+ed altro.
+
+- @FabioVallone: e @bassosimone disse: "Pioggia!" ... e pioggia fù...
 
 - @SabryKarate: "In viaggio con Narsete: da bit.ly a Tor, passando per
-la crap detection"
+la crap detection" by @bassosimone
+
+- @Carrattrezzi: Argomenti di oggi: -bit.ly -tor -crap detection
+
+- @DavidePalermo2: Parliamo con @bassosimone di bit.ly e Tor OT O
+Thor? http://t.co/rtEwEIt0QW /OT
+
+- @Carrattrezzi: Eunuchi e robustezza bizantina
+
+- @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete alla
+crapdetenction.
 
 - @SabryKarate: Robustezza bizantina: il tutto funziona anche se c'è
 un guasto!
 
+- @Clerish: @EricaAcire19 @SabryKarate E' la maledizione di !
+
 - @Ale_Cannone:  robustezza bizantina: i generali non possono comunicare
 tra loro e alcuni sono traditori ma l'attacco è vincente
+
+- @DavidePalermo2: Un temporale con poderosi tuoni si abbatte su Torino
+Ma noi siamo con @bassosimone a seguire
 
 - @Carrattrezzi: Come stabilire l'affidabilità di persone e siti
 su internet
@@ -444,6 +774,24 @@ su internet
 
 - @ripa_pepperipa: come faccio a valutare l'affidabilità dei link? mi
 fido della persona?
+
+- @FabioVallone: Scrivere sempre Tor e non TOR...
+
+- @EmaParrinello: @bassosimone ci parlerà a breve di: -bit.ly -phishing
+-crap detection -Tor
+
+- @Ale_Cannone:  di chi mi devo fidare in internet? Parliamo di: 1. Bit.ly
+2. Email e phishing 3. Crap detection 4. Tor
+
+- @SoFranchy: Di chi ti fidi? In relazione a bit.ly & link, e-mail
+& phishing, pagine web & fonti, Tor
+
+- @LucaLiuzzi: @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete
+alla crapdetection.
+
+- @Carrattrezzi: @bassosimone aveva twittato questo http://t.co/Wqf42N4Y0R
+
+- @venadavide: La magia che sta dietro link lungo e link corto bitly
 
 - @FabioVallone: automatismo bit.ly: PC->DNS (IP di bit.ly)
 PC->bit.ly(link lungo) PC->sito che mi interessa
@@ -454,6 +802,21 @@ dove vi porterà.
 - @SoFranchy: URL bit.ly con l'aggiunta di "+" per scoprire a cosa porta
 prima ancora di andarci.
 
+- @FabioVallone: mettendo un + in fondo al link bit.ly, ci permette di
+conoscere dove finiremmo
+
+- @SabryKarate: Possiamo scrivere http://t.co/EUzDrp4l9h per osservare
+in che pagina Web il bitly ci potrebbe portare, prima di entrarvi.
+
+- @venadavide: Per controllare dove ci manda un bitly possiamo aggiungere
+al fondo dell'URL un "+"
+
+- @ripa_pepperipa: se riceviamo un bitly e abbiamo paura, aggiungiamo un
+"+" per verificarene la pagina senza nessun rischio
+
+- @Ale_Cannone:  se in un URL bit.ly vogliamo sapere dove porta basta
+mettere un + alla fine dell'indirizzo
+
 - @CaracciFabio: Con bit.ly tre passaggi in più per essere reindirizzati
 alla pagina cercata.
 
@@ -463,43 +826,100 @@ bit.ly è visualizzato
 - @Carrattrezzi: curl è un buon modo per vedere tutto ciò che succede
 ai nostri URL
 
+- @paolopopolizio: aggiungendo "+" al link di bitly ti dice dove finiamo
+se clicchiamo su quel link
+
 - @FabioVallone: bit.ly utilizza un processo di Http Redirection
+
+- @SabryKarate: Modo poco geek: mettere un "+" in fondo a bitly. Modo
+geek: usare un tool come Curl.
 
 - @Ale_Cannone:  http redirection: vai in un indirizzo per essere
 re-indirizzato in un altro sito (moved)
 
-- @SoFranchy:"curl" da riga di comando
+- @EmaParrinello: Per controllare dove andremo a finire con un link
+corto possiamo aggiungere un "+" alla fine dell'URL o usare "curl"
+
+- @SoFranchy: http redirection. Aggiungendo "+" si evita la "redirezione"
+di bit.ly e si ottengono solo info sul'url corta.
+
+- @DavidePalermo2: Provate http://t.co/XqwXzEZw17 ;-)
+
+- @LucaLiuzzi: Per esempio: “@rep_torino: Sei ragazzi del “Poli a
+Pasadena a progettare i robottini per Marte: http://t.co/BJchBzjFzW”
+
+- @SoFranchy: in alternativa si può usare "curl" da riga di comando
 che funziona non solo con bit.ly
+
+- @Ale_Cannone: Le URL corte sono utili nelle mail in quanto certe volte
+le righe vanno a capo automaticamente dopo 80 caratteri
 
 - @SabryKarate: Uso di URL corti PROS: - per email (però descrivendo
 origine) - click stats CONS: - non è chiaro dove ci porta!
+
+- @SabryKarate: Non serve utilizzare URL corti su Twitter, perché come
+abbiamo visto il link viene accorciato automaticamente. :)
 
 - @Clerish: Il rasoio di Occam: http://t.co/6N7FD7ZXS1
 
 - @Ale_Cannone:  bit.ly utile nelle mail ma attenti alla robustezza,
 privacy, sicurezza e okkam
 
+- @SabryKarate: Attenzione, i bitly hanno CONTRO riguardo a: chiarezza
+della fonte, robustezza, privacy, security, okkam,...
+
+- @LucaLiuzzi: 301works http://t.co/fLJkXbPhr9
+
 - @SabryKarate: Il DNS, bitly e simili sono utili, tuttavia può essere
 un problema se finiscono down.
+
+- @Carrattrezzi: pro e contro di bit.ly  http://t.co/YtuFQwwUXt
 
 - @SabryKarate: La Security è l'aspetto più critico di bitly!
 
 - @SabryKarate: Cookie, pezzetti di informazione che vengono memorizzati
 e che possono essere rubati...
 
+- @SabryKarate: Utilizziamo un errore a scopo didattico :)
+
+- @SabryKarate: Funzione di hash on wiki http://t.co/YWzDYxfigM
+
 - @SabryKarate: <script> alert(document.cookie);</script>
 
 - @Carrattrezzi: Phishing (Phracking and fishing) getti delle esche per
 far abboccare dumb users
 
+- @SabryKarate: Parliamo ora di Phishing! Un gioco di parole tra
+"phracking" e "fishing". Senso -> i tonni abboccano.
+
+- @FlavioGiobergia: @bassosimone ci parla di XSS facendomi passare per
+un programmatore di bug :-)
+
+- @Clerish: Il phishing sui "pesci grossi" si dice Wailing (caccia
+alla balena)
+
+- @SabryKarate: Phishing fatto su "pesci grossi" ---> Whaling
+http://t.co/TzU00RMV5l
+
 - @Ale_Cannone:  i passi del phishing: 1. Manipolazione dei link 2. Email
 credibile 3. Sito credibile
+
+- @LucaLiuzzi: Impariamo quanto è importante svuotare la propria cache
+periodicamente e non solo.
 
 - @Ale_Cannone:  manipolazione dei link può essere attuata attraverso
 bit.ly
 
 - @SabryKarate: Si può ingannare un user usando: mail credibile,
 manipolando il link (non troppo lungo) e sfruttando un sito credibile.
+
+- @EmaParrinello: bit.ly ci può essere di aiuto per evitare di essere
+vittima di un phishing attack
+
+- @Carrattrezzi: @bassosimone scrive davvero gli URL a mano O.o
+
+- @SabryKarate: Attenzione alle mail che vi chiedono di inserire dati
+personali! Se non siete sicuri, informatevi e non fatevi imbrogliare
 
 - @Ale_Cannone:  un esempio di manip dei link riguarda il fatto che
 alcune URL sono insolitamente lunghe e finiscono con domini "strani"
@@ -515,8 +935,18 @@ Authentication. I.E. sms oltre a user e pw.
 
 - @Gare_1993: Crap detection time
 
+- @SabryKarate: "Every man should have a build-in automatic crap detection
+operating inside him..." cit. Ernest Hemingway
+
+- @Ale_Cannone: Si parla di sicurezza su interntet a  Qui il caso Prism
+in America http://t.co/yljVN2JrNW @RivoluzDigitale
+
+- @Carrattrezzi: Net smart by Howard Rheingold
+
 - @SoFranchy: Che info dare al lettore crap detector: nome dell’autore
 cosa ha fatto in passato e cosa dicono altri di lui: reputazione
+
+- @SoFranchy: Creiamo una pagina Wikipedia su @bassosimone!
 
 - @SabryKarate: Su Google si possono facilmente trovare dati più precisi
 che ci mostrino il contesto culturale dell'autore di un blog post.
@@ -524,16 +954,38 @@ che ci mostrino il contesto culturale dell'autore di un blog post.
 - @Ale_Cannone:  whoise: un tool che aiuta a capire di chi è un certo
 dominio
 
+- @Clerish: Altro tool: "WhoIs" (da usare con cautela)
+
+- @LorenzoCutelle: Per cercare di capire chi è il proprietario del
+dominio, una possibile soluzione è 'whois'
+
+- @Carrattrezzi: @disinformatico
+
+- @ripa_pepperipa: a si parla di Paolo Attivissimo @disinformatico
+
+- @SabryKarate: @disinformatico Giornalista informatico, cacciatore di
+bufale e conduttore Radio
+
 - @Ale_Cannone:  sempre accertarsi delle fonti e non fidarsi sempre
 ciecamente della persona
 
 - @SabryKarate: Tor: Routing a cipolla http://t.co/ydTK6HjLp2
 
+- @Carrattrezzi: The Onion Routing
+
 - @Ale_Cannone:  Tor: i pacchetti vengono cifrati e diventa difficile
 capire chi è il mittente e chi il destinatario
 
+- @EmaParrinello: Tor: implementazione di "routing a cipolla" in cui i
+pacchetti sono cifrati più volte--> è difficile risalire al mittente
+
 - @Ale_Cannone:  il terzo livello di Tor è chiamato exit node e conosce
 il destinatario il primo conosce invece il mittente
+
+- @SabryKarate: Tor è un software che si può installare sul pc. Puoi
+scegliere tra varie opzioni: essere solo client, nodo della rete,...
+
+
 
 ## 2013-06-05
 
@@ -1354,70 +1806,189 @@ lesson! RivoluzDigitale
 
 ### Prof. Meo
 
-#### Software libero
+- @DavidePalermo2, @SoFranchy, @paolopopolizio, @andryamadio, 
+@EmaParrinello, @VadimCujba, @_FedericoConte, @BoggioMattia, 
+@venadavide: @demartin presenta il Prof. Angelo Raffaele Meo 
+(http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open Source.
 
-- @demartin presenta il Prof. Angelo Raffaele Meo (http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open Source.
+- @DavidePalermo2: Software libero e opensource di A. Meo File PDF
+http://t.co/ROn21rK02N
 
-- Software libero e opensource di A. Meo File PDF http://t.co/ROn21rK02N
+- @DavidePalermo2, @SoFranchy, @MorenoLaQuatra: Il Prof. Meo ha 
+contribuito all’introduzione dell’Informatica in Italia.
 
-- Il Prof. Meo ha contribuito all’introduzione dell’Informatica in Italia.
+- @FabioBussi, @EmaParrinello, @paolopopolizio, @ripa_pepperipa, 
+@EmaParrinello: la storia del software libero affonda le sue radici
+nella storia della cultura Hacker. Un hacker è colui che accede ai
+sistemi informativi allo scopo di conoscere e non di rubare 
+informazioni o fare danni.
 
-- La storia del software libero affonda le sue radici nella storia della cultura Hacker. Un hacker è colui che accede ai sistemi informativi allo scopo di conoscere e non di rubare informazioni o fare danni.
+- @venadavide, @ripa_pepperipa, @paolopopolizio, @FabioVallone: Si 
+parla di comunicazione tra hacker. Suit= ”abito da lavoro 
+generalmente scuro e scomodo”; SNAFU= “Va tutto bene” per non dire ai 
+capi, distanti dalla realtà, che “tutto va a puttane” 
+(http://t.co/iqRZaBehq5)
 
-- Si parla di comunicazione tra hacker. Suit= ”abito da lavoro generalmente scuro e scomodo”; SNAFU= “Va tutto bene” per non dire ai capi, distanti dalla realtà, che “tutto va a puttane” (http://t.co/iqRZaBehq5)
+- @DavidePalermo2, @FabioBussi, @ripa_pepperipa, @LucaLiuzzi, 
+@FabioVallone: Prof. Meo parla di Richard Stallman 
+http://t.co/5HTesSKvvH, fondatore della Free Software
+Foundation e principale esponente della parrocchia, dice Meo, del 
+software libero dal 1985: “Free software è una questione di libertà
+e non di prezzo” sostiene Stallman.
 
-- Prof. Meo parla di Richard Stallman http://t.co/5HTesSKvvH, fondatore della Free Software Foundation e principale esponente della parrocchia, dice Meo, del software libero dal 1985: “Free software è una questione di libertà e non di prezzo” sostiene Stallman.
+- @FabioVallone, @venadavide, @DavidePalermo2, @_FedericoConte: Xerox 
+non vuole dare a Stallman la possibilità di ritoccare il software 
+della stampante. Si licenzia dal MIT e un nuovo sistema operativo: 
+GNU = “GNU is Not Unix”. 
 
-- Xerox non vuole dare a Stallman la possibilità di ritoccare il software della stampante. Si licenzia dal MIT e un nuovo sistema operativo: GNU = “GNU is Not Unix”. 
+- @paolopopolizio, @ripa_pepperipa, @FabioVallone: Si parla di tipi di 
+licenze software. Si va da software nel pubblico dominio a software 
+proprietari. Vie di mezzo sono il copyleft e il copyright.
 
-- Si parla di tipi di licenze software. Si va da software nel pubblico dominio a software proprietari. Vie di mezzo sono il copyleft e il copyright.
+- @DavidePalermo2, @FabioBussi, @venadavide, @LucaLiuzzi, @paolopopolizio, 
+@SoFranchy: Nel 1991 Linus Torvalds, studente di 
+Helsinki, crea GNU Linux, come piace chiamarlo a Stallman, sistema 
+operativo completamente libero che, ancora oggi, molti contribuiscono 
+a migliorare. 
 
-- Nel 1991 Linus Torvalds, studente di Helsinki, crea GNU Linux, come piace chiamarlo a Stallman, sistema 
-operativo completamente libero che, ancora oggi, molti contribuiscono a migliorare. 
+- @EricaAcire19, @EmaParrinello, @DavidePalermo2: Il Prof. Meo 
+confida agli studenti di rivoluzione digitale dettagli della vita di 
+Stallman, della sua eccentricità, delle sue “fissazioni”.
 
-- Il Prof. Meo confida agli studenti di rivoluzione digitale dettagli della vita di Stallman, della sua eccentricità, delle sue “fissazioni”.
+- @FabioBussi, @enricoiucci, @MarcoViccica, @paolopopolizio, 
+@SoFranchy: Internet e il SW libero sono uno un capitolo dell’altro
 
-- Internet e il SW libero sono uno un capitolo dell’altro
+- @DavidePalermo2, @SoFranchy, @FabioBussi, @FabioVallone: Meo fa un 
+parallelismo tra Internet e la pesca miracolosa del Vangelo di 
+Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo 
+socio-economico perché funziona grazie alla collaborazione di più 
+persone ed alimenta la diffusione e la crescita della conoscenza. 
+(Foto http://t.co/WOLQyMMutq)
 
-- Meo fa un parallelismo tra Internet e la pesca miracolosa del Vangelo di Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo socio-economico perché funziona grazie alla collaborazione di più persone ed alimenta la diffusione e la crescita della conoscenza. (Foto http://t.co/WOLQyMMutq)
 
-- Meo: “Se il DNA è la più grande scoperta dell’uomo, Internet è la sua più grande invenzione”. Internet realizza la diffusione della conoscenza in modo libero (liberi devono essere la partecipazione, le idee, il codice), regola principale della IETF (Internet Engineering Task Force) http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ.
+- @paolopopolizio, @enricoiucci, @SoFranchy, @_FedericoConte,
+@DavidePalermo2, @Ale_Cannone, @ripa_pepperipa, @BoggioMattia, 
+@EmaParrinello, @_FedericoConte: Meo: “Se il DNA è la più grande 
+scoperta dell’uomo, Internet è la sua più grande invenzione”. 
+Internet realizza la diffusione della conoscenza in modo libero 
+(liberi devono essere la partecipazione, le idee, il codice), regola 
+principale della IETF (Internet Engineering Task Force) 
+http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ.
 
-- Internet è basato su documenti scientifici chiamati RFC (Request For Comments). Messaggio “scriveteli nel cesso, ma scriveteli precisi e chiari”.
+- @FabioVallone Internet è basato su documenti scientifici chiamati 
+RFC (Request For Comments. Messaggio “scriveteli nel cesso, ma 
+scriveteli precisi e chiari”.
 
-- Perchè costruire tanti bit e poi pubblicarli gratis? Per far crescere la conoscenza, questa deve essere libera. Bisogna pensare alla parola libero come “free spech” non come “free beer”.
+- @FabioBussi, @paolopopolizio, @LorenzoCutelle, @Clerish: Perchè 
+costruire tanti bit e poi pubblicarli gratis? Per far crescere la 
+conoscenza, questa deve essere libera. Bisogna pensare alla parola 
+libero come “free spech” non come “free beer”.
 
-- Qualche tempo fa Google decise di aprire un capitolo dedicato al software libero e si accorse di dover creare 100 milioni di pagine.
+- Qualche tempo fa Google decise di aprire un capitolo dedicato al 
+software libero e si accorse di dover creare 100 milioni di pagine.
 
-- Source Forge: il primo sito in ambito di distribuzione di software libero. 2,7 milioni di sviluppatori si impegnano a creare nuovi software liberi ed al giorno vengono effettuati 2 milioni di download degli stessi.
+- @DavidePalermo2, @paolopopolizio, @Carrattrezzi, @VadimCujba: 
+Source Forge: il primo sito in ambito di distribuzione di software 
+libero. 2,7 milioni di sviluppatori si impegnano a creare nuovi 
+software liberi ed al giorno vengono effettuati 2 milioni di download 
+degli stessi.
 
-- Sicuramente si andrà a dare un'occhiata al corso di software libero del professore A. Meo. Si possono trovare le slides "Software libero" by A. Meo usate nell'anno precedente sul sito http://t.co/rru0WO1BcO
+- @LucaLiuzzi, @SabryKarate: Sicuramente si andrà a dare un'occhiata 
+al corso di software libero del professore A. Meo. Si possono trovare 
+le slides "Software libero" by A. Meo usate nell'anno precedente sul 
+sito http://t.co/rru0WO1BcO
 
-- Software libero italiano: nel 2002 Lucio Stanca, ministro del governo Berlusconi,  formo’ una commissione, con a capo Meo, per indagare sui vantaggi del software libero. 
+- @MatteoMonta93: Software libero italiano: nel 2002 Lucio Stanca 
+formo una commissione, con a capo Meo, per indagare sui vantaggi del 
+software libero. 
 
-- Microsoft disse che il costo totale di gestione del software (TCO - Total Cost of Ownership, http://t.co/ukTPuVV6Wg) era minore per il software proprietario rispetto al software libero. Si rispose dicendo che, fosse anche stato vero, i soldi delle licenze andavano all’estero mentre quelli di manutenzione restavano in Italia. 
+- @FabioVallone, @ripa_pepperipa, @FabioBussi, @paolopopolizio, 
+@Carrattrezzi, @Ale_Cannone: Microsoft disse che il costo totale di
+gestione del software (TCO - Total Cost of Ownership, http://t.co/ukTPuVV6Wg)
+era minore per il software proprietario rispetto al software libero.
+Si rispose dicendo che, fosse anche stato vero, i soldi delle licenze 
+andavano all’estero mentre quelli di manutenzione restavano in Italia.
 
-- Microsoft disse che rendendo disponibili i sorgenti avrebbe comportato meno sicurezza. In realta', la STO (Security Through Obscurity) e' una tecnica per garantire la sicurezza abbastanza deprecata. Nella comnunita' crittografica, infatti, l'idea di base e' quella di avere algoritmi pubblici e codice pubblico, e sicurezza che si realizza tenendo segrete le chiavi. L'idea di base e' che un algoritmo e' tanto piu' robusto quanti piu' esperti crittoanalisti lo hanno rivisto e hanno provato ad attaccarlo; cosa che non e' possibile fare se il sorgente e' chiuso.
+- @FabioVallone, @_FedericoConte, @Rexsimo893, @enricoiucci, 
+@paolopopolizio: Microsoft disse che rendendo disponibili i sorgenti 
+avrebbe comportato meno sicurezza. In realta', la STO (Security
+Through Obscurity) e' una tecnica per garantire la sicurezza abbastanza
+deprecata. Nella comnunita' crittografica, infatti, l'idea di base
+e' quella di avere algoritmi pubblici e codice pubblico, e sicurezza
+che si realizza tenendo segrete le chiavi. L'idea di base e' che un
+algoritmo e' tanto piu' robusto quanti piu' esperti crittoanalisti
+lo hanno rivisto e hanno provato ad attaccarlo; cosa che non e'
+possibile fare se il sorgente e' chiuso.
 
-- Meo cita il principio di Kerckhoffs per un parallelismo con STO: tentare di nascondere le cose agli hacker è come tentare di farlo con le donne. http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
+- @DavidePalermo2: Meo cita il principio di Kerckhoffs per un 
+parallelismo con STO: tentare di nascondere le cose agli hacker è 
+come tentare di farlo con le donne.
+http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
 
-- Era emerso, intanto, che dentro Windows NT c’erano due chiavi crittografiche: MS-key e NSA-key. Si temeva ci fosse una backdoor.
+- @BoggioMattia: Il software custom appartiene alla pubblica
+amministrazione
 
-- Altro punto era organizzare progetti per la scuola e per la ricerca, riguardanti il software libero.
+- @Carrattrezzi: We live in a society who knows the price of everything
+and the value of nothing (O.Wilde)
 
-- Stanca indice una direttiva - dalla quale, in seguito , scaturì una legge molto più addolcita - che prevedeva l’uso del software libero nella pubblica amministrazione ed il salvataggio dei documenti e dei dati in più formati, dei quali almeno uno aperto.
+- @FabioVallone: Dentro Windows NT c'erano due chiavi crittografiche:
+Mskey, Nsakey; C'era paura di una backdoor
 
-- Considerazioni sull’Italia: citando Wilde, “We live in a society who knows the price of everything and the value of nothing”. “Il nostro è un paese di leggi severissime temperate dalla loro inosservanza” Prof. Meo
+- @DavidePalermo2: XML http://t.co/AFtIA783Ut
 
-- Nella Pubblica Amministrazione, nonostante si pagassero 3 miliardi di dollari (3G$) per le licenze dei software proprietari,  vere e proprie gare comunitarie limitano l’uso del software libero: un esempio sono i vari siti chiusi rispetto al browser.
+- @DavidePalermo2: @SabryKarate ci fa notare come le slide che
+ora visualizziamo siano disponibili qui http://t.co/YGIsXY1aVi
 
-- Sale al governo Prodi e Luigi Nicolais istituisce una nuova commissione, sempre presieduta dal Prof. Meo, ma il governo Prodi cade e “la maledizione di B. Tutankhamon”, cosi’ piace definirla a Meo, fa scomparire uomini e progetti dedicati alla ricerca per il software libero: il ministro Brunetta si rifiuta di ricevere la commissione istituita dal suo predecessore. http://t.co/9lDqTQXk50
+- @MorenoLaQuatra: Il nostro è un paese di leggi severissime temperate
+dalla loro inosservanza. cit. Prof. Meo
 
-- Nell’estate del 2012 il Parlamento approva una legge secondo la quale di “default” la Pubblica Amministrazione deve scegliere il software libero.
+- @FabioVallone: Ogni anno vengono persi circa 3 miliardi di $ per
+le licenze
 
-- Ultimo atto del governo Monti, legato all’Agenda Italia Digitale, è ripristinare la STO, rivedere il TCO e stabilire l’uso di formati aperti, nonché degli standard in grado di garantire l’interoperabilità. 
+- @SimoneBleynat: I gigadollari (G$) sono geniali
 
-- Ultima pillola di Meo sul software libero: “I deputati che vanno a donnine sono meno dannosi della scelta di un software proprietario”: i 3 miliardi di dollari che si risparmierebbero sui costi delle licenze per i software proprietari sono 10 volte di più di quanto si risparmierebbe con il taglio dei parlamentari. Purtroppo bisognerebbe insegnare alle segretarie, ad esempio, la nuova posizione della X per chiudere le finestre.
+- @Rexsimo893: Alcuni siti sono chiusi anche rispetto al browser
+utilizzato per visualizzare le pagine -&gt; poca libertà
+
+- @PieMarzio: Si parla di software libero. Prof. Angelo Raffaele Meo
+http://t.co/6SSJOtHnhS
+
+- @DavidePalermo2: Si auto-commenta ;-) http://t.co/9lDqTQXk50
+
+- @FabioVallone: Con l'arrivo di "Brunetta" è arrivata la maledizione
+di Bill Tutancamon
+
+- @venadavide: http://t.co/NcfQDxuAmM
+
+- @Rexsimo893: Nell'estate scorsa il Parlamento ha approvato una legge
+che la scelta di default del software deve essere quello libero
+
+- @Carrattrezzi: La scelta di "default" della pubblica amministrazione
+deve essere il software libero. Legge dell'estate scorsa
+
+- @FabioVallone: A Brunetta non interessa il software libero e quindi
+non ha ricevuto la comunità del software libero...
+
+- @DavidePalermo2: http://t.co/3XLq8mtHKE Diventa Timeo Catricalam er
+dona ferentes :-)
+
+- @Ale_Cannone: 2012: con la legge 134/2012 la P.A. doveva adottare il
+software libero di default
+
+- @_FedericoConte: Legge 134/2012 : Nella Pubblica Amministrazione si
+adotti il software libero "by default"
+
+- @DavidePalermo2: I doni dei "Dona ferentes" legge 221/2012 by Monti
+http://t.co/36CO4zGGSw
+
+- @FabioBussi: con la legge 221 del 2012 il P.A. deve adottare per
+default il software libero
+
+- @FabioVallone: ...formati aperti...nonchè standard in grado di
+garantire l'interoperabilità... STO TCO questo prevede legge 221/2012
+
+- @Rexsimo893: Legge 221/2012: 1.TCO; 2.formati aperti e
+interoperabilità; 3.STO.
 
 - @DavidePalermo2: Esiste l' hardware libero Io non lo sapevo, e
 voi? http://t.co/Nk8Tur4pRU
@@ -5352,575 +5923,137 @@ mnemonico.
 
 #### Personal computer
 
-- @SabryKarate: Inizialmente l'accesso ai Mainframe era mediato da tecnici
+- Federico Faggin: co-inventore del microprocessore, collabora con Olivetti e nel 1960 dice “L’Italia è indietro di 3-4 anni rispetto agli Stati Uniti”.
 
-- @Ale_Cannone: Federico Faggin: inventore del microprocessore
+- Dopo la morte di Adriano Olivetti, il gruppo dei finanziatori dell'azienda sceglie di lasciar perdere i computer.
 
-- @FabioBussi: Il gruppo dei finanziatori dell'Olivetti, dopo la morte di
-  Olivetti, sceglie di lasciar perdere i computer
+- Inizialmente, nei computer, il software non era separato dall’hardware. Compravi una macchina con un software già incluso. Quindi fino agli anni '70, non esisteva un mercato del SW o HW. E' grazie al personal computer (anni ’70) che avviene la separazione hardware – software.
 
-- @FabioVallone: Federico Faggin (co)inventore del mP nel 1960 fa nascere
-  in Italia l'Olivetti, restando però indietro 3-4 anni rispetto USA
+- Il personal Computer di IBM (1982) divenne il PC per eccellenza. Ma, attenzione: per PC si intende un qualunque personal computer, non necessariamente Windows.
 
-  [@bassosimone: verificare collegamento tra Faggin e Olivetti]
+- Con la separazione Hw / Sw, nascono l’industria dell’hardware e, soprattutto, quella del software. Inoltre, nasce subito la consapevolezza che le macchine siano in grado di copiare perfettamente il Sw, rendendo necessarie delle misure di tutela.
 
-- @SabryKarate: Il software non era separato dall'hardware: era pre-
-  installato.
+- Si decise di tutelare il software con il diritto d'autore (in inglese, copyright), quindi fino a 70 anni dopo la morte dell’autore. Il diritto d'autore tutela l'esatta sequenza di istruzioni usata nel Software, non l'idea che ci sta alla base.
 
-- @FabioBussi: Pc=personal computer, non necessariamente Windows
+- IBM fece una scelta importante: le specifiche del computer sono pubbliche. Ciò vuol dire avere la libertà di poter aggiungere periferiche a piacimento. Facendo tale scelta, IBM opta per un’architettura HW molto aperta.
 
-- @MorenoLaQuatra: Non c'era ancora il concetto di software, tardi anni
-  '60, compravi tutto Hardware + Software -
+- I PC dell'IBM uscivano con il sistema operativo MS-DOS, ma su di essi si potevano installare anche sistemi operativi diversi (ad es. CP/M, usato da Altair: http://t.co/BeQucmPx4g). L’IBM provò anche a fare un suo sistema operativo interno, fallendo miseramente. HW (aperto) -&gt; S.O.(a scelta) -&gt; Applicativi (a  scelta)
 
-- @ripa_pepperipa: fino agli anni '70 non esisteva ancora un mercato del
-  SW o HW.
+- Nel 1984 si pongono le basi per il Movimento del Software Libero, a opera di Richard Stallman (http://t.co/UhIoqKMRr6), che sviluppa una vera e propria etica  del software.
 
-- @SabryKarate: E' grazie al personal computer che avviene la separazione
-  hardware - software
+- Dall’altro lato, esistono anche il trusted computing, un chip che impedisce installazione di
+  applicazioni non firmate digitalmente. Per esempio, installare un altro S.O. su #iPhone è molto più difficile che cambiare S.O. su un personal computer (esempio di sistema chiuso).
 
-- @FabioVallone: Col PC Hw e Sw si separano. In questo modo si può
-  comprare un PC solo per l'hardware
-
-- @FabioBussi: @FabioBussi: Divisione hardware e software con avvento dei
-  personal computer
-
-- @EmaParrinello: con l'invenzione del Personal Computer negli anni '70
-  l'hardware e il software si separano..Nasce l industria del software
-
-- @FabioVallone: Nasce subito l'idea che le macchine sono in grado di
-  copiare perfettamente il Sw rendendo necessarie delle misure di tutela
-
-- @EnricoBello20: Con la nascita dell'industria dei SW ci si domanda come
-  si potrebbe tutelare il proprio software
-
-- @FabioVallone: Il personal Computer di IBM divenne il PC per eccellenza
-
-- @MorenoLaQuatra: 1982, nasce il primo PC, MADE BY IBM
-
-- @FabioBussi: Nel 1982 IBM crea il suo primo pc invadendo il mercato con
-  la forza di una multinazionale, diventando IL pc
-
-- @FabioVallone: Il software venne tutelato con il diritto d'autore
-  (quindi fino a 70 anni dopo la morte)
-
-- @SabryKarate: Anche il software è tutelato dal diritto d'autore.
-
-- @EnricoBello20: Le industrie decidono di tutelare il SW con il Diritto
-  d'autore: copyright fino a 70 anni dopo la morte dell'inventore
-
-- @FabioVallone: Il diritto d'autore tutela l'esatta sequenza di
-  istruzioni usata nel Software, non l'idea che ci sta alla base
-
-- @MorenoLaQuatra: I software tutelati fino a 70 anni dopo la morte
-  dell'autore, solo l'intera successioni di carattere del codice, non
-  l'idea
-
-- @Ale_Cannone: inizialmente si decide di tutelare il codice di un
-  software con i diritti d'autore/copyright
-
-- @FabioVallone: IBM fece una scelta importante: le specifiche del
-  computer sono pubbliche Ciò vuol dire avere più scelta per le
-  periferiche
-
-- @ripa_pepperipa: il diritto d'autore tutela la forma espressiva
-  e.l'esatta sequenza delle parole. NON L'IDEA!
-
-- @FabioVallone: Facendo tale scelta, IBM, scelse di avere un architettura
-  HW molto aperta
-
-- @SabryKarate: IBM fece un'architettura hardware aperta: permette di
-  inserire pezzi intercambiabili.
-
-- @EmaParrinello: L'IBM lancia sul mercato PC con architettura hardware
-  aperta
-
-- @LucaLiuzzi: IBM predilige un'architettura hardware aperta.
-
-- @FabioBussi: IBM decide di costruire il proprio pc con architettura HW
-  aperta con libertà di poter aggiungere periferiche liberamente
-
-- @MorenoLaQuatra: Complimenti alla IBM, architettura aperta, libero sfogo
-  alla possibilità dell'utente
-
-- @FabioVallone: I PC dell'IBM uscivano con MS-DOS, ma su di essi si
-  poteva installare anche sistemi operativi diversi (ad es. CPM)
-
-- @EnricoBello20: Nel 1984 si pongono le basi per il Movimento del
-  Software Libero, a opera di Richard Stallman
-
-- @DavidePalermo2: CP/M Sistema Operativo usato per Altair
-  http://t.co/BeQucmPx4g
-
-- @SabryKarate: 1984, Richard Stallman sviluppa una vera e propria etica
-  del software.
-
-- @FabioVallone: HW (aperto) -&gt; S.O.(a scelta) -&gt; Applicativi (a
-  scelta)
-
-- @EricaAcire19: L’IBM provò anche a fare un suo sistema operativo
-  interno, fallendo miseramente.
-
-- @DavidePalermo2: http://t.co/UhIoqKMRr6 pagina personale di Richard
-  Stallman
-
-- @RivoluzDigitale: trusted computing, chip che impedisce installazione di
-  applicazioni non firmate digitalmente
-
-- @DavidePalermo2: Piattaforma Aperta -&gt; Generativa -&gt; problemi di
-  sicurezza, stabilità, ...
-
-- @EricaAcire19: Installare un altro S.O. su #iPhone è molto più
-  difficile che cambiare S.O. su un personal computer.
-
-- @FabioVallone: Il fatto di scegliere una piattaforma aperta porta
-  problemi:-Sicurezza, -Stabilità, -...
-
-- @RivoluzDigitale: quanto il pendolo oscilli tra sicurezza e liberta`
-  viene determinato socialmente
+- Tuttavia, il fatto di scegliere una piattaforma aperta (come nel caso di IBM) porta problemi di: Sicurezza, Stabilità.  Infatti, Piattaforma Aperta -&gt; Generativa -&gt; problemi di
+  sicurezza, stabilità. Quanto il pendolo oscilli tra sicurezza e liberta’  viene determinato socialmente.
 
 #### Reti di computer
 
-- @Rexsimo893: Anni '80: i PC non dialogavano fra di loro, solo uso locale
+- Anni '80: i PC erano isolati, non dialogavano fra di loro, solo uso locale.
 
-- @EnricoBello20: Diffusione dei pc, che però venivano acquistati per un
-  uso locale: i pc erano isolati tra di loro!
+- Dall' inizio degli anni '60 si comincia a parlare di come collegare i PC tra loro: nasce l’idea di sviluppare una rete di computer. Ciò grazie alla diffusione di massa della rete telefonica.
 
-- @DavidePalermo2: Ora trattiano dei cenni di un argomento vasto: Reti di
-  Computer
+- Inizialmente si pensa di farlo  tramite la rete telefonica, che era uno dei pilastri della società. Era (e continua ad essere) un'infrastruttura critica (grande importanza dal punto di vista mediatico), una rete chiusa (non viene detto come funziona), gerarchica (grosse centrali -&gt; centrali minori -&gt; apparecchi) e intelligente (al contrario del telefono, che è un dispositivo in sé stupido, “dumb”). Un sistema TOP DOWN. 
 
-- @FabioVallone: I Personal Computers all'inizio erano isolati tra di
-  loro. Le reti di Computer non erano ancora sviluppate.
+Piccolo OT: Mubarak provò a “spegnere” rete internet e  telefonica ma dopo pochi giorni dovette riaccenderla perché il Paese era bloccato.
 
-- @LucaLiuzzi: Negli anni '80 nascono le prime reti di calcolatori.
+Tornando alle origini di Internet, siamo in piena Guerra Fredda. Per la connessione tra computer si pensa, quindi, ad una struttura non gerarchica: una rete interconnessa ha il vantaggio di non avere nodi principali, punti critici. A quel tempo, si pensava a una rete di calcolatori che resistesse ad attacco nucleare (idea 1, di derivazione militare) (foto by @Xfox1: http://t.co/onaw8zySpN)
 
-- @FabioVallone: Dagli anni '60 si iniziano a sviluppare le reti di
-  Computer. Ciò grazie alla diffusione di massa della rete telefonica
+- Idea 2, segmentazione del contenuto. Mentre la rete telefonica è una commutazione di circuito (c’è un circuito fisico da A a B allocato al 100% per la durata della telefonata), per Internet si pensa ad un’alternativa. Infatti, se un contenuto è rappresentabile in maniera discreta (bit), posso dividerlo in pacchetti (1500 byte) =&gt; packet switching (foto di @Xfox1: http://t.co/q0oaeFRTAq - http://t.co/QBEPVq0vSk)
 
-- @Ale_Cannone: dall' inizio degli anni '60 si comincia a parlare di come
-  collegare i PC tra loro
+- Grazie a questa multiplazione (https://t.co/OaM0CQFQoL) dei pacchetti, ognuno si prende 1/N della capacita` del canale. Maggiore efficienza.
 
-- @EmaParrinello: Negli anni '60 ci si chiede come collegare i computer
-  tramite la rete telefonica .
+- Negli anni ’60, un gruppo di sviluppatori prova a mettere in pratica le idee 1 e 2: rete magliata con pacchetti e non bit  sequenziali. In quegli anni, DARPA investe miliardi di dollari in ricerca di base (tra cui “l'internet-working a commutazione di pacchetto”).
 
-- @FabioVallone: La rete telefonica è uno dei pilastri della società
+- DARPA (Defense Advanced Research Projects Agency), nasce durante la guerra fredda: http://t.co/fnsPKPar57 - http://t.co/xSUlTnpMPG
 
-- @MorenoLaQuatra: Rete telefonica, sfruttata per le reti di personal
-  computer. Potenza di calcolo di un singolo PC che condivide informazioni
+- Vannevar Bush: "Science is the new frontier" -
+  http://t.co/j5jQbjUdaM - http://t.co/jim66gtAfA
 
-- @SabryKarate: La rete telefonica è un'infrastruttura critica: ha grande
-  importanza dal punto di vista mediatico.
+- "Internet e' stata fatta dai militari" e' una semplificazione, casomai e' stata finanziata (DARPA).
 
-- @FabioVallone: Rete telefonica: -Gerarchica; -intelligente, ma il
-  dispositvo è stupido; opaca, chiusa
+- Alcuni ricercatori importanti per la storia di Internet: Vint Cerf, Jon Postel, Bob Kahn
 
-- @EricaAcire19: Mubarak provò a “spegnere” rete internet e
-  telefonica ma dopo pochi gg dovette riaccenderla perché paese bloccato.
+- Vint Cerf, uno dei "padri di Internet", adesso lavora per google: https://t.co/1RWDTDIjFZ
 
-- @ripa_pepperipa: all'inizio degli anni '60 si iniziano a studiare le
-  reti di computer. La rete di default è quella telefonica!
+- John Postel, l'uomo-internet! Per 30 anni, gestì tutti gli indirizzi IP. http://t.co/QflM7d4vtL
 
-- @LucaLiuzzi: La rete telefonica : Gerarchica,intelligente e chiusa.
+- Bob Kahn: ha lavorato per DARPA, finanziò il progetto di Inter-networking. 
 
-- @SabryKarate: Telefono: strumento "stupido", ma Rete intelligente.
+- Questi 3 uomini nel 1972 offrono una prima demo pubblica di networking tra mainframe a commutazione di pacchetto (foto di @Xfox1: http://t.co/4cGFUp2sPP)
 
-- @Ale_Cannone: La rete telefonica era: gerarchica, intelligente e opaca.
-  Il dispositivo era stupido.
+- BBN, UCSB, Salt Lake City, UCLA sono i primi nodi della rete.
 
-- @MorenoLaQuatra: Il telefono dumb, - la rete intelligente (per garantire
-  la massima diffusione)
+- Bob Kahn (DARPA) dice "..da centinaia a decine di milioni di nodi.." ecco il vero successo di internet!
 
-- @DavidePalermo2: Imparare ad usare il telefono -&gt; 20 secondi Il
-  telefono è stupido!
+- L'architettura base di internet è quella di una rete stupida, in cui l'intelligenza sta nei dispositivi (i computer). Esattamente al contrario rispetto al telefono. "Stupid network, intelligence at the edges": si rendono più complicati i dispositivi ai margini della rete, il network però è "stupido".
 
-- @Rexsimo893: La rete telefonica è intelligente, mentre i dispositivi
-  sono stupidi: poco costosi e facili da usare
+- Questa architettura di rete viene detta "E2E" (End to  End): ai capi dispositivi intelligenti e al centro una rete stupida.
 
-- @FabioVallone: La rete telefonica è stata sviluppata in modo da essere
-  utilizzata in modo semplice tramite l'utilizzo di un dispositivo
+- Questa nuova visione aprì le porte per nuovi usi: l'evoluzione non è più della rete ma dei dispositivi che la utilizzano. La rete "scala" meglio; Apparecchiature di rete più semplici-&gt;meno costose; Rete stupida=generatività. Una rete del genere si limita a smistare pacchetti, a trasmettere "dati". Non è ottimizzata per nulla in particolare. Gli usi sono molteplici
 
-- @MorenoLaQuatra: Rete telefonica, sistema TOP DOWN
+- Al contrario, la telefonia è molto ottimizzata: ha il 99.999% di affidabilità (i.e. 3 minuti di downtime all'anno)
 
-- @EmaParrinello: Internet: tutto nasce durante la Guerra Fredda
+- La Storia di Internet http://t.co/SioFiWOi11
 
-- @Clerish: Solo con la diffusione dei PC iniziò a formarsi un'industria
-  del software. Prima tutti i programmi erano preinstallati.
+- "Internet è la più grande piattaforma per l'innovazione mai costruita" Lawrence Lessig (Twitter: @lessig Tumblr: http://t.co/n67IBLQqzB)
 
-- @SabryKarate: Una struttura non gerarchica ha il vantaggio che non ci
-  sono nodi principali: una rete interconnessa non ha punti critici.
+- WikiPage di Marshall McLuhan http://t.co/4qKLfkvkrk
 
-- @CaracciFabio: Rete intelligente accoppiata a un dispositivo stupido.
-  Intelligenti e stupidi che vanno d'accordo chi lo avrebbe mai detto
+- “DARPAnet”: rete finanziata da DARPA (ora è “Internet”).
 
-- @EricaAcire19: si pensava a una rete di calcolatori che resistesse ad
-  attacco nucleare.
+- All'inizio DARPAnet, poi per chiamare la connessione delle varie reti locali tra di loro, si parla di interconnessione (interconnected networks), ovvero… Internet: inter-networking (“reti interconnesse”, “reti di reti”).
 
-- @RivoluzDigitale: idea 1, piu` strategica, rete in grado di sopravvivere
-  ad un attacco atomico (eravamo in piena guerra fredda)
+- Inter-networking: rete di reti, collegate tra loro grazie a Gateway, che traduce il linguaggio locale in una lingua franca. Questo linguaggio è l’Internet Protocol (IP) e serve affinché tutte le reti possano dialogare.
 
-- @Xfox1: perché scrivere se ti puoi esprimere meglio con le foto?
-  http://t.co/onaw8zySpN
+- Ethernet: http://t.co/jrC4VVfOOa
 
-- @LucaLiuzzi: Le prime idee che porteranno a internet sono di derivazione
-  Militare.
+- Caratteristiche del protocollo Internet: dati binari divisi in pacchetti (paylod) di 1500 byte;  aggiunta di intestazione (header) ai dati.
 
-- @EnricoBello20: idea 2:il telefono è una commutazione di circuito:
-  circuito fisico da A a B allocato al 100% per la durata della telefonata
+- MEMENTO Come funziona Internet? http://t.co/j2OqAEZuGU
 
-- @FabioVallone: Idea rete telefonica:-Rete gerarchica
-  (sicurezza,robustezza)-Segmentizzazione del contenuto
+- Nell'IP, ogni nodo riceve e manda pacchetti. Ogni pacchetto viaggia indipendentemente. L'indirizzo IP (versione 4: http://t.co/TomPlEXwbL) è composto da 4 byte (i.e. 132.128.17.16) ogni numero è compreso tra 0 e 255 ed è separato da un punto.
 
-- @DavidePalermo2: se contenuto è 1 rappr in maniera discreta (bit) 2
-  diviso in pacchetti (1500 byte) si parla di pacchettizzazione
+- Piccola curiosità: gli indirizzi IPv4 sono quasi finiti. Entro pochi anni i nuovi siti avranno tutti indirizzi IPv6.
 
-- @FabioVallone: Per pacchettizzare il contenuto il contenuto deve essere
-  rappresentabile in maniera discreta (bit)
+- Tramite l'indirizzo IP si identifica un solo PC nella rete. Va aggiunto all'Header per far arrivare i dati al destinatario.
 
-- @RivoluzDigitale: idea 2, rappresento informazioni come bit e le divido
-  in pacchetti =&gt; packet switching
+- Viaggio dei pacchetti: pacchetto va al gateway. L'indirizzo viene letto e il pacchetto viene mandato al nodo successivo. Ogni singolo nodo ha solo la visibilità sul nodo successivo.
 
-- @Xfox1: http://t.co/q0oaeFRTAq
+- Tabelle di instradamento: dicono per ogni nodo su quale link di uscita mandare pacchetto in base a indirizzo destinazione.
 
-- @RivoluzDigitale: multiplazione del canale , ognuno si prende 1/N della
-  capacita` disponibile
+- By the way, chiariamo eh: ogni nodo ha la sua tabella di indirizzamento.
 
-- @Xfox1: http://t.co/QBEPVq0vSk
+- Qualunque computer puo`, in linea di principio,  instradare pacchetti, ma dentro la rete ci sono macchine specializzate,  chiamate router (“instradatori”), che instradano pacchetti in modo molto efficiente.
 
-- @FabioVallone: Se più persone vogliono parlare contemporaneamente, i
-  pacchetti vengono trasmessi in modo alternato. Così è più efficiente
+- Il comando "traceroute ..." (su Windows il comando è "tracert ...") messo in qualunque terminale serve per sapere quanti nodi servono per arrivare a destinazione.
 
-- @DavidePalermo2: La multiplazione: https://t.co/OaM0CQFQoL
+#### Principi di Internet 
 
-- @DavidePalermo2: Inventor of the internet technology packet switching.
-  Leonard Kleinrock http://t.co/bMvQ2zfl1v
+- Il principio di base di Internet è "best effort": nessuna garanzia per nessuno (infatti, può capitare che alcuni pacchetti vengano persi durante il "trasporto"). 
 
-- @DavidePalermo2: DARPA http://t.co/fnsPKPar57
+- Un altro principio è la neutralita` della rete: tutti i pacchetti sono trattati allo stesso modo indipententemente da cosa trasportano, dal mittente, dal destinatario, dal dispositivo e dall'applicazione. I nodi guardano solo l’IP del destinatario e trattano tutti i pacchetti allo stesso modo
 
-- @FabioVallone: DARPA (Defense Advanced Research Projects Agency) nasce
-  durante la guerra fredda
+- Tuttavia, oggi i #router ora sono così potenti da poter sbirciare nei pacchetti dati ["deep packet inspection"]. Economicamente e' perfettamente razionale che un operatore si accordi con altri attori per trattamento preferenziale. Ma se gli operatori hanno la facolta` di fare questi accordi, Internet diventa un'altra cosa [molto meno generativa]
 
-- @DavidePalermo2: talking about @DARPA
+- Cappuccetto rosso - Storia di un pacchetto perduto http://t.co/M8msW8s2dD
 
-- @EricaAcire19: gruppo di sviluppatori prova a mettere
-  in pratica I e II idea: rete magliata con pacchetti e non bit
-  sequenziali.
+- Olanda e Slovenia hanno fatto delle leggi per difendere il principio di neutralità della rete
 
-- @RivoluzDigitale: USA: DARPA e altri progetti di ricerca militari negli
-  anni '60 rovesciano miliardi di dollari in ricerca di base
+- Memento: il prof De Martin ci ricorda di studiare “Come funziona Internet”, un piccolo opuscolo che fa parte del programma: http://t.co/9hqYa5GDHt
 
-- @Xfox1: tecniche di multiplazione?
-
-- @FabioVallone: La ricerca di base venne finanziata dal DARPA
-
-- @RivoluzDigitale: Vannevar Bush: "Science is the new frontier" -
-  http://t.co/j5jQbjUdaM
-
-- @DavidePalermo2: Science The Endless Frontier - Vannevar Bush - July
-  1945 http://t.co/jim66gtAfA
-
-- @FabioVallone: Il DARPA finanzia anche l'"internet-working a
-  commutazione di pacchetto"
-
-- @LolloCler: cos'é la DARPA? http://t.co/xSUlTnpMPG
-
-- @Rexsimo893: DARPA agenzia che finanzia internet-working a commutazione
-  di pacchetto
-
-- @RivoluzDigitale: "Internet e' stata fatta dai militari" e' una
-  semplificazione, casomai e' stata finanziata (DARPA)
-
-- @Ale_Cannone: tra i molti progetti la DARPA finanzia l'internet-working
-  a commutazione a pacchetto
-
-- @SabryKarate: Vint Cerf, uno dei "padri di Internet":
-  https://t.co/1RWDTDIjFZ
-
-- @Clerish: Internet come lo conosciamo è nato grazie alle ricerche
-  finanziate dalla DARPA. #darpa
-
-- @LucaLiuzzi: D.A.R.P.A. Defense advance research projects agency.
-
-- @RivoluzDigitale: alcuni ricercatori importanti per la storia di
-  Internet: Vint Cerf, Jon Postel, Bob Kahn
-
-- @FabioVallone: Alcuni nomi DARPA: Vint Cerf (adesso lavora per google)
-  John Postel (gestì a mano gli indirizzi IP) Bob Kahn (finanzatore)
-
-- @MathieuMauri: Jon Postel, l'uomo-internet! Gestiva tutti gli indirizzi
-  IP!!!
-
-- @ripa_pepperipa: la scienza è la nostra nuova frontiera!
-
-- @ripa_pepperipa: Jon Postel per 30 anni ha gestito gli indirizzi IP
-
-- @FabioVallone: 1972: prima demo pubblica di networking tra mainframe a
-  commutazione di pacchetto
-
-- @RivoluzDigitale: 1972 dimostrazione pubblica della commutazione tra
-  mainframe (Cerf, Kahn, Postel)
-
-- @Ale_Cannone: primi nodi: BBN, UCSB, Salt Lake City, UCLA
-
-- @Xfox1: #CosaSuccedeInAula http://t.co/4cGFUp2sPP
-
-- @FabioVallone: BBN, UCSB, Salt Lake City, UCLA sono i primi nodi della
-  rete.
-
-- @LolloCler: Bob Kahn (DARPA) dice "..da centinaia a decine di milioni di
-  nodi.." ecco il vero successo di internet!
-
-- @EnricoBello20: l'architettura base di internet era quella di
-  un'infrastruttura stupida, in cui l'intelligenza sta nei computer
-
-- @FabioVallone: Fu proposto il contrario: rete stupida e dispositivi
-  intelligenti
-
-- @SabryKarate: Inversione di tendenza della rete Internet rispetto alla
-  rete telefonica: Dispositivi intelligenti e Rete "stupida".
-
-- @ripa_pepperipa: - Idea: non si può creare una rete profondamente
-  stupida con dispositivi estremamente intelligenti ai bordi?
-
-- @ripa_pepperipa: http://t.co/QflM7d4vtL [Jon Postel]
-
-- @RivoluzDigitale: Idea di base di Internet: "Stupid network,
-  intelligence at the edges"
-
-- @LucaLiuzzi: Si rendono più complicati i dispositivi ai margini della
-  rete; il network però è "stupido".
-
-- @FabioVallone: Questa nuova visione aprì le porte per nuovi usi:
-  l'evoluzione non è più della rete ma dei dispositivi che la
-  utilizzano.
-
-- @FabioVallone: La rete "scala" meglio; Apparecchiature di rete più
-  semplici-&gt;meno costose; Rete stupida=generatività.
-
-- @FabioVallone: Con la nuova idea di rete si possono trasmettere
-  "dati".Non è ottimizzata per nulla in particolare.Gli usi sono
-  molteplici
-
-- @Ale_Cannone: internet: rete pensata per la trasmissione di dati in
-  generale e non per applicazioni in particolare
-
-- @SabryKarate: Una rete che non sia ottimizzata per nessuna funzione in
-  particolare può essere sfruttata per vari scopi.
-
-- @DavidePalermo2: Architettura è end to end! E2E :-)
-
-- @GiGirgenti: telefonia 99.999% di affidabilita` (i.e. 3 minuti di downtime
-  all'anno)
-
-- @FabioVallone: Questa architettura di rete viene detta "E2E" (End to
-  End). E' un sinonimo di rete stupida e dispositivi intelligenti
-
-- @EnricoBello20: internet inizialmente è una rete End-to-End (E2E): rete
-  stupida e dispositivi marginali intelligenti!
-
-- @LucaLiuzzi: Per architettura E2E si intende che la struttura va da un
-  capo all'altro.
-
-- @DavidePalermo2: La Storia di Internet http://t.co/SioFiWOi11 :-) [YouTube]
-
-- @SabryKarate: "Internet è la più grande piattaforma per l'innovazione
-  mai costruita" Lawrence Lessig
-
-- @FabioVallone: E2E: Apertura agli usi imprevisti; "internet è la più
-  grande piattaforma per l'innovazione mai costruita" (Lawrence Lessig)
-
-- @DavidePalermo2: WikiPage di Marshall McLuhan http://t.co/4qKLfkvkrk
-
-- @DavidePalermo2: Tumblr Blog di Lessig http://t.co/n67IBLQqzB
-
-- @EmaParrinello: "Internet è la più grande piattaforma per
-  l'innovazione mai costruita" Lawrence Lessig
-
-- @MorenoLaQuatra: L'attenzione sul software basata sull'architettura E2E
-
-- @RivoluzDigitale: "Internet e' la piu` grande piattaforma per
-  l'innovazione mai costruita" @lessig
-
-- @FabioVallone: DARPAnet=Rete finanziata da DARPA (ora è internet).
-
-- @SabryKarate: Perché Internet? Internet: interconnected networks, ossia
-  "reti interconnesse"
-
-- @LucaLiuzzi: Perché "internet"?All'inizio DARPAnet poi per chiamare la
-  connessione delle varie reti locali si parla di interconnessione.
-
-- @FabioVallone: Internet nasce per interconnetere tra di loro più reti
-
-- @LucaLiuzzi: Internet: inter-networking - Reti di reti.
-
-- @LolloCler: internetworking rete di reti, collegate tra loro grazie a
-  gateway che traduce linguaggio locale in una lingua franca
-
-- @RivoluzDigitale: Internet come "rete di reti", come lingua franca con
-  cui una specifica rete locale parla con tutto il resto del mondo
-
-- @LolloCler: dimenticavo.. l'ip (internet protocol) é la lingua franca!
-
-- @DavidePalermo2: Ethernet http://t.co/jrC4VVfOOa
-
-- @FabioVallone: Il protocollo serve come lingua franca che tutte le reti
-  possono parlare
-
-- @EnricoBello20: internet connette tra di loro le diverse reti tramite
-  l'IP (Internet Protocol)
-
-- @FabioVallone: Caratteristiche protocollo: dati binari in pacchetti;
-  Aggiunta di intestazione ai dati (header)
-
-- @Ale_Cannone: internet: i dati binari devono essere divisi in pacchetti
-  di max 1500 byte con una intestazione (header)
-
-- @DavidePalermo2: MEMENTO Come funziona Internet? http://t.co/j2OqAEZuGU
-
-- @FabioVallone: Payload= dati binari divisi in pacchetti; Header=
-  intestazione dei dati;
-
-- @ripa_pepperipa: caratteristiche principali degli indirizzi IP: dati
-  binari divisi in pacchetti (payload) e intestazione (heades)
-
-- @FabioVallone: Nell'IP ogni nodo riceve e manda pacchetti. Ogni
-  pacchetto viaggia indipendentemente.
-
-- @FabioVallone: L'indirizzo IP è composto da 4 byte (es. 132.128.17.16)
-  ogni numero è compreso tra 0 e 255
-
-- @RivoluzDigitale: indirizzo IP versione 4: numero su 32 bit
-  rappresentato come 4 byte (i.e. numeri tra 0 e 255) separati da punti
-
-- @EricaAcire19: IPv4 http://t.co/TomPlEXwbL...
-
-- @FabioVallone: Tramite l'indirizzo IP si identifica un solo PC nella
-  rete. Va aggiunto all'Header per far arrivare i dati al destinatario
-
-- @DavidePalermo2: IPv4 su wikipedia http://t.co/C9JJBz4ahd
-
-- @DavidePalermo2: IPv4 http://t.co/C9JJBz4ahd
-
-- @FabioVallone: viaggio dei pacchetti: pacchetto va al gateway.
-  L'indirizzo viene letto e il pacchetto viene mandato al nodo successivo
-
-- @Rexsimo893: IP-invio dati: dati binari divisi in pacchetti +
-  intestazione (indirizzo IP destinatario)
-
-- @DavidePalermo2: Pacchetto -&gt; Pacco della Posta Gateway -&gt; Ufficio
-  Postale e centro di smistamento Vie e scelta Nodo -&gt; il postino in
-  moto
-
-- @RivoluzDigitale: Tabelle di instradamento: dicono per ogni nodo su
-  quale link di uscita mandare pacchetto in base a indirizzo destinazione
-
-- @FabioVallone: Ogni singolo nodo ha solo la visibilità sul nodo
-  successivo
-
-- @RivoluzDigitale: by the way, chiariamo eh: ogni nodo ha la sua tabella
-  di indirizzamento
-
-- @EmaParrinello: I dati una volta impacchettati vengono smistati e
-  indirizzati su ciascun nodo mediante dell tabelle di instradamento
-
-- @FabioVallone: Ogni Computer può essere configurato per diventare un
-  nodo di una rete. Nella realtà lo smistamento è fatto dai router
-
-- @EricaAcire19: Qualunque computer può essere un nodo che smista i
-  pacchetti (se avesse più linee in uscita)
-
-- @LolloCler: i "router", instradatori,smistano i pacchetti dati in pochi
-  [micro] secondi!
-
-- @RivoluzDigitale: qualunque computer puo`, in linea di principio,
-  instradare pacchetti, ma [...]
-
-- @Clerish: Piccola curiosità: gli indirizzi IPv4 sono quasi finiti.
-  Entro pochi anni i nuovi siti avranno tutti indirizzi IPv6
-
-- @RivoluzDigitale: [...] dentro la rete ci sono macchine specializzate,
-  chiamate router, che instradano pacchetti in modo molto efficiente
-
-- @DavidePalermo2: La rete di nodi è come l'autostrada con i caselli
-  autostradali decidi dove uscire in base alle esigenze come i pacchetti!
-
-  [@bassosimone: non esattamente, nel senso che tu (= il pacchetto) non
-   decidi proprio nulla, ma e' la rete che ti instrada in base a dove
-   tu dici che vuoi andare.]
-
-- @FabioVallone: Il comando "traceroute ..." messo in qualunque terminale
-  serve per sapere quanti nodi servono per arrivare a destinazione
-
-- @LolloCler: i #router ora sono così potenti da poter sbirciare nei
-  pacchetti dati ["deep packet inspection"]
-
-- @RivoluzDigitale: principio di base di Internet: "best effort": nessuna
-  garanzia per nessuno
-
-- @FabioVallone: Può capitare che alcuni pacchetti vengano persi durante
-  il "trasporto"
-
-- @LolloCler: "neutralità della rete",ovvero tutti i flussi sono uguali
-  per il router!
-
-- @RivoluzDigitale: neutralita` della rete: tutti i pacchetti sono
-  trattati allo stesso modo indip. da cosa trasportano
-
-- @Ale_Cannone: neutralità della rete: i nodi guardano solo la
-  destinazione e trattano tutti i pacchetti allo stesso modo
-
-- @RivoluzDigitale: [...] dal mittente, dal destinatario, dal dispositivo
-  e dall'applicazione
-
-- @ripa_pepperipa: neutralità della rete = tutti i flussi di pacchetti
-  sono uguali indipendentemente dal mittente, mezzo, contenuto etc...
-
-- @FabioVallone: By the way, su Windows il comando è "tracert ..."
-
-- @EnricoBello20: "Best effort" e "Neutralità della rete": esiste una
-  specie di Costituzione di Internet che afferma tali principi?
-
-- @RivoluzDigitale: economicamente e' perfettamente razionale che un
-  operatore si accordi con altri attori per trattamento preferenziale
-
-- @RivoluzDigitale: ma se gli operatori hanno la facolta` di fare questi
-  accordi, Internet diventa un'altra cosa [molto meno generativa]
-
-- @FlavioGiobergia: Cappuccetto rosso - Storia di un pacchetto perduto
-  http://t.co/M8msW8s2dD
-
-- @FabioVallone: Olanda e Slovenia hanno fatto delle leggi per difendere
-  il principio di neutralità della rete
-
-- @DavidePalermo2: MEMENTO Come funziona Internet? http://t.co/j2OqAEZuGU
-
-- @EnricoBello20: Come funziona Internet: http://t.co/9hqYa5GDHt
-
-- @GiGirgenti: Prossima lezione:chi governa internet? Chi prende le
-  decisioni?
+- Prossima lezione: chi governa internet? Chi prende le decisioni?
 
 ### @bassosimone
 
-- @SabryKarate: FAQ: Frequently Asked Questions
+- FAQ: “Frequently Asked Questions”(foto di @bassosimone by v@SabryKarate: http://t.co/QqHMN0lHBo)
 
-- @SabryKarate: @bassosimone time nella lezione di http://t.co/QqHMN0lHBo
+- Titolo dei post: deve essere chiaro, ma non "eccessivamente" descrittivo. Sarebbe gradito un tocco di originalità.
 
-- @Clerish: Quanti di voi cari colleghi non sapeva cosa significa FAQ?
-  Ormai si dovrebbe trovare nei dizionari... @RivoluzDigitale
+- Importante nei post è anche dare il proprio contributo alla comunità, nel senso che scrivere un post critico che si basa su cinque fonti e aggiungere la propria esperienza personale è decisamente più  utile di riassumere un articolo di Wikipedia.
 
-- @Ale_Cannone: Titolo può essere fatto in 3 modi: può essere [1] poco
-  chiaro, [2] puo` descrivere il post, [3] ma è meglio un titolo "bello"
+- Reminder: Fonti meglio dentro al testo, invece che in fondo. Inserire la caption delle immagini.
 
-- @SabryKarate: Titolo: deve essere chiaro, ma non "eccessivamente"
-  descrittivo. Sarebbe gradito un tocco di originalità.
-
-- @Ale_Cannone: importante nei post è anche dare il proprio contributo
-  alla comunità
-
-  [@bassosimone: nel senso che se scrivete un post critico che si basa su
-   cinque fonti e aggiunge la vostra esperienza personale questo e' piu`
-   utile di riassumere un articolo di Wikipedia]
-
-- @SabryKarate: Reminder: Fonti meglio dentro al testo, invece che in
-  fondo. Inserire la caption delle immagini.
 
 
 ## 2013-04-26
